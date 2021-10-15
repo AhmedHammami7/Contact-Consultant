@@ -1,0 +1,6 @@
+package com.example.short_profile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
